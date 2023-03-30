@@ -1,0 +1,385 @@
+('D:\\Dropbox\\Punky Projects\\AFx Automation\\dist\\Render Robot.exe',
+ False,
+ False,
+ False,
+ 'D:\\Dropbox\\Punky Projects\\AFx '
+ 'Automation\\venv\\lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-windowed.ico',
+ None,
+ False,
+ False,
+ '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"><assemblyIdentity type="win32" name="robot" processorArchitecture="amd64" version="1.0.0.0"/><trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"><security><requestedPrivileges><requestedExecutionLevel level="asInvoker" uiAccess="false"/></requestedPrivileges></security></trustInfo><dependency><dependentAssembly><assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" language="*" processorArchitecture="*" version="6.0.0.0" publicKeyToken="6595b64144ccf1df"/></dependentAssembly></dependency><compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1"><application><supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"/><supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/><supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/><supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/><supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/></application></compatibility><application xmlns="urn:schemas-microsoft-com:asm.v3"><windowsSettings><longPathAware xmlns="http://schemas.microsoft.com/SMI/2016/WindowsSettings">true</longPathAware></windowsSettings></application></assembly>',
+ True,
+ True,
+ False,
+ None,
+ None,
+ None,
+ 'D:\\Dropbox\\Punky Projects\\AFx Automation\\build\\robot\\Render Robot.pkg',
+ [('PYZ-00.pyz',
+   'D:\\Dropbox\\Punky Projects\\AFx Automation\\build\\robot\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\build\\robot\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\build\\robot\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\build\\robot\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\build\\robot\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\build\\robot\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pyqt6',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pyqt6.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('robot',
+   'D:\\Dropbox\\Punky Projects\\AFx Automation\\robot.py',
+   'PYSOURCE'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\andre\\AppData\\Local\\Programs\\Python\\Python310\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('python310.dll',
+   'C:\\Users\\andre\\AppData\\Local\\Programs\\Python\\Python310\\python310.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qtga.dll',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qtga.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qico.dll',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qico.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qjpeg.dll',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qjpeg.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qgif.dll',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qgif.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qpdf.dll',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qpdf.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qwbmp.dll',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qwbmp.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\platforms\\qwindows.dll',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\platforms\\qwindows.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qicns.dll',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qicns.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\generic\\qtuiotouchplugin.dll',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\generic\\qtuiotouchplugin.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\iconengines\\qsvgicon.dll',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\iconengines\\qsvgicon.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\platforms\\qoffscreen.dll',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\platforms\\qoffscreen.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qtiff.dll',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qtiff.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qwebp.dll',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qwebp.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\platforms\\qminimal.dll',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\platforms\\qminimal.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qsvg.dll',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qsvg.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\styles\\qwindowsvistastyle.dll',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\styles\\qwindowsvistastyle.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\bin\\opengl32sw.dll',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\opengl32sw.dll',
+   'BINARY'),
+  ('_decimal.pyd',
+   'C:\\Users\\andre\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\andre\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\andre\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\andre\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\andre\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\andre\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\andre\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\andre\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\andre\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md__mypyc.cp310-win_amd64.pyd',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\charset_normalizer\\md__mypyc.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md.cp310-win_amd64.pyd',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\charset_normalizer\\md.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('PyQt6\\sip.cp310-win_amd64.pyd',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\sip.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('PyQt6\\QtGui.pyd',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\QtGui.pyd',
+   'EXTENSION'),
+  ('PyQt6\\QtCore.pyd',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\QtCore.pyd',
+   'EXTENSION'),
+  ('PyQt6\\QtSvg.pyd',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\QtSvg.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\andre\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('PyQt6\\QtWidgets.pyd',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\QtWidgets.pyd',
+   'EXTENSION'),
+  ('PyQt6\\Qt6\\bin\\Qt6Gui.dll',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\bin\\Qt6Gui.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\bin\\Qt6Core.dll',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\bin\\Qt6Core.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\bin\\Qt6Pdf.dll',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\bin\\Qt6Pdf.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\bin\\MSVCP140.dll',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\bin\\MSVCP140.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\andre\\AppData\\Local\\Programs\\Python\\Python310\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\bin\\Qt6Network.dll',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\bin\\Qt6Network.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\bin\\Qt6Svg.dll',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\bin\\Qt6Svg.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\bin\\Qt6Widgets.dll',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\bin\\Qt6Widgets.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'C:\\Users\\andre\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Users\\andre\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('python3.dll',
+   'C:\\Users\\andre\\AppData\\Local\\Programs\\Python\\Python310\\python3.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\bin\\MSVCP140_2.dll',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\bin\\MSVCP140_2.dll',
+   'BINARY'),
+  ('libffi-7.dll',
+   'C:\\Users\\andre\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\libffi-7.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\bin\\MSVCP140_1.dll',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\bin\\MSVCP140_1.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\bin\\VCRUNTIME140_1.dll',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\bin\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\build\\robot\\base_library.zip',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_nn.qm',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_nn.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_uk.qm',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_uk.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_bg.qm',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_bg.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_pt_BR.qm',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_pt_BR.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_en.qm',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_en.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_fi.qm',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_fi.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_nl.qm',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_nl.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_ja.qm',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ja.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_ko.qm',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ko.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_de.qm',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_de.qm',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\certifi\\cacert.pem',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_it.qm',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_it.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_fr.qm',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_fr.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_gd.qm',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_gd.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_sk.qm',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_sk.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_da.qm',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_da.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_zh_CN.qm',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_zh_CN.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_es.qm',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_es.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_fa.qm',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_fa.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_hr.qm',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_hr.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_he.qm',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_he.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_pl.qm',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_pl.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_tr.qm',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_tr.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_cs.qm',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_cs.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_hu.qm',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_hu.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_lv.qm',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_lv.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_ar.qm',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ar.qm',
+   'DATA'),
+  ('certifi\\py.typed',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\certifi\\py.typed',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_ru.qm',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ru.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_zh_TW.qm',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_zh_TW.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_ca.qm',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ca.qm',
+   'DATA'),
+  ('render_robot\\robot.png',
+   'D:\\Dropbox\\Punky Projects\\AFx Automation\\render_robot\\robot.png',
+   'DATA')],
+ [],
+ False,
+ False,
+ 1680215250,
+ [('runw.exe',
+   'D:\\Dropbox\\Punky Projects\\AFx '
+   'Automation\\venv\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
+   'EXECUTABLE')])
