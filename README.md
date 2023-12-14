@@ -4,6 +4,8 @@ Robot Render is A GUI that facilitates After Effects comp rendering automation.
 
 Robot Render uses the After Effects command line renderer to render a queue of After Effects compositions. It is built for After Effects compositions using an external CSV file to dynamically update fields within its compositions. Using a secondary file containing variations, it will update the base CSV file before rendering each variation.
 
+![Example Robot Render UI](https://cdn.myportfolio.com/e297cf82-f515-476d-ab0e-bf9fc0fb3342/e69399e0-251a-4393-a6df-84a4d099d08b_rw_1920.png?h=561719b5a17c86d66147f38161081077)
+
 ## How to use
 (The sample files included with the download are helpful)
 ### Step 1
